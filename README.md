@@ -13,11 +13,11 @@ A basic Body Mass Index (BMI) calculator built with Flutter. This app allows use
 - Press the "Calculate" button to see your BMI and health status.
 
 ## BMI Categories
-Category 	     BMI Range
-Underweight     Less than 18.5
-Normal weight	 18.5 – 24.9
-Overweight	    25 – 29.9
-Obese	          30 or greater
+- Category 	     BMI Range
+- Underweight     Less than 18.5
+- Normal weight	 18.5 – 24.9
+- Overweight	    25 – 29.9
+- Obese	          30 or greater
 
 ## Getting Started
 
